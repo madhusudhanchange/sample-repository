@@ -1,1 +1,3 @@
 This is a sample.txt
+mytoken
+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
